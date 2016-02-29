@@ -1,4 +1,4 @@
-# HappyHackathong Gainsight Happy Hack
+# HappyHackathonGainsight Happy Hack
 Problem Statement - 1
 
 PlanMyTrip, Inc., is a travel portal that specializes in hotel reservations. They distinguish themselves by providing curated reviews of the hotels from the people that have made hotel reservations from their portal and stayed at those hotels.
